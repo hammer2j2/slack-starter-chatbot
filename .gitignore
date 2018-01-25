@@ -1,4 +1,7 @@
+.env
 .db
 node_modules
 components/routes/_*
 .idea/
+.data/
+package-lock.json
